@@ -36,4 +36,5 @@ provide with `/vikas` for string name
 
 On console use , `curl<Url>` 
 ![output-vikas.png](assets/output-vikas.png)
+
 ---
